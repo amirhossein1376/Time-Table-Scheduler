@@ -1,0 +1,3 @@
+       Average            51.0
+  Courses = 51              25
+  Courses < 51               0
